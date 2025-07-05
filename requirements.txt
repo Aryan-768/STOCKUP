@@ -1,9 +1,10 @@
+streamlit
 yfinance
+opencv-python-headless
 pandas
-numpy
 matplotlib
+seaborn
+plotly
 statsmodels
-prophet
-scikit-learn
-tensorflow
-keras
+requests
+beautifulsoup4
